@@ -55,13 +55,3 @@ https://www.youtube.com/playlist?list=PLMfK2lhtmT7G52lLlu8C97IQgJhYlZ3lL
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=neuxxkk&theme=tokyonight&hide_border=true" alt="streak" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=neuxxkk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=neuxxkk&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&v=2" alt="top langs" /></p>
